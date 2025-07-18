@@ -1,0 +1,1 @@
+Hello! I did this for an assignment for my Code:You classes. I decided on this because I really enjoy pokemon, and thought the idea of making a quiz was really fun. It was pretty difficult and I'm sure there are a lot of ways I could "streamline" the whole thing or make it better but I'm still learning! Thanks for checking it out! :D  
